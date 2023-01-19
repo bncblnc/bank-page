@@ -1,4 +1,4 @@
-<h2 align="center"> 💲 BANK PAGE 💲 </h2>
+<div align="center"><img  alt="logo" height="100"  src="logo-readme.png"></div>
 <div>
     <p> Projeto de uma landing page para um banco.</p>
     <h3>💻 TECNOLOGIAS:</h3>
